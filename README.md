@@ -5,10 +5,15 @@
 - Flexbox
 - Mobile-first workflow
 
+### Screenshot
+
+![Advice generator api](https://user-images.githubusercontent.com/40214178/157929779-58c80ec4-394c-41fe-be49-683ce7332d48.png)
+
+
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [https://github.com/henryayo/advice-generator](https://github.com/henryayo/advice-generator)
+- Live Site URL: [https://henryayo.github.io/advice-generator/](https://henryayo.github.io/advice-generator/)
 
 ### What I learned
 
